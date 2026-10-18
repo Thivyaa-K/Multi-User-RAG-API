@@ -1,0 +1,9 @@
+My name is Thivyaa.
+I am currently learning about cloud computing, AI, and DevOps.
+My career goal is to become a cloud engineer.
+I am especially interested in automation and systems infrastructure. 
+
+I have experience with Python, JavaScript and AWS. 
+I am currently building projects on NextWork to grow my hands-on skills.
+
+For fun, I enjoy programming electronics with code.
